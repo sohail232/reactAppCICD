@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload. now check for reload
+          first app to test CI/CD pipeline.
         </p>
         <a
           className="App-link"
